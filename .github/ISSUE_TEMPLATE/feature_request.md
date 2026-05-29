@@ -1,13 +1,13 @@
 ---
 name: Feature
-about: Suggest an idea for this project
+description: "새로운 기능 추가"
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-description: "새로운 기능 추가"
+
 labels: ["feature"]
 body:
   - type: textarea
