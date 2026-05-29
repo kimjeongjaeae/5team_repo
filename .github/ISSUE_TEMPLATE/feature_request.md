@@ -1,9 +1,8 @@
 ---
-name: Feature
+name: "✨ Feature"
 description: "새로운 기능 추가"
 labels: ["feature"]
 body:
-  
   - type: textarea
     attributes:
       label: 📄 설명
@@ -18,12 +17,10 @@ body:
       placeholder: 최대한 세분화 해서 적어주세요!
     validations:
       required: true
-  
-- type: textarea
+  - type: textarea
     attributes:
       label: 🙋🏻 참고 자료
       description: 참고 자료가 있다면 작성해 주세요.
-
 ---
 
 
