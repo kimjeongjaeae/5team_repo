@@ -11,7 +11,7 @@ body:
       placeholder: 자세히 적을수록 좋습니다!
     validations:
       required: true
-  
+  /n
   - type: textarea
     attributes:
       label: ✅ 작업할 내용
