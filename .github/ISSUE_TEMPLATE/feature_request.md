@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: name: 
 about: Suggest an idea for this project
 title: ''
 labels: ''
@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-name: "✨ Feature"
 description: "새로운 기능 추가"
 labels: ["feature"]
 body:
